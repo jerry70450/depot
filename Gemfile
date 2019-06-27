@@ -63,3 +63,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'rubocop-rails'
+
+gem 'webpacker', '~> 3.0'
